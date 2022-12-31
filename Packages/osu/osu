@@ -1,7 +1,0 @@
-var ObjectWindow = Shell.CreateWindow({
-    URL : "https://www.webosu.online/",
-    Icon : "https://www.webosu.online/assets/img/favicon.png",
-    NoMenu : ""
-});
-
-ObjectWindow.g.querySelector(".wb-header").style.backgroundColor = "https://www.webosu.online/assets/img/favicon.png" ;
