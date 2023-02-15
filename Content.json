@@ -1,0 +1,7 @@
+[
+    {
+        "Name" : "Test ( Bêta ) !",
+        "Description" : "Just a package to test apt from the Bêta Repository !",
+        "PackageName" : "BetaTest"
+    }
+]
